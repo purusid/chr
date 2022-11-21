@@ -68,9 +68,15 @@ a {
 }
 
 .nitro-ui-alist>a>div {
-    width: 74%;
+    width: 64%;
     margin: 3%;
     font-weight: bold;
+}
+
+.nitro-ui-alist>a>.arr{
+    width: 4%;
+    margin: 3%;
+    height: 4%;
 }
 
 .yt-item{
@@ -81,4 +87,14 @@ a {
 .ig-item{
     border:.3em solid #83b;
     box-shadow: .3em .3em .3em #83b;
+}
+
+.tw-item{
+    border:.3em solid #0ae;
+    box-shadow: .3em .3em .3em #0ae;
+}
+
+.fb-item{
+    border:.3em solid #459;
+    box-shadow: .3em .3em .3em #459;
 }
