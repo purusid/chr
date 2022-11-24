@@ -68,14 +68,14 @@ a {
 }
 
 .nitro-ui-alist>a>div {
-    width: 64%;
-    margin: 3%;
+    width: 60%;
+    margin: 5%;
     font-weight: bold;
 }
 
 .nitro-ui-alist>a>.arr{
     width: 4%;
-    margin: 3%;
+    margin: 5%;
     height: 4%;
 }
 
