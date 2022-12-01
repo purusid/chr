@@ -68,7 +68,7 @@ a {
     margin-bottom: auto;
     border-radius: 1em;
     border: none;
-    padding: 1em;
+    padding: .5em;
 }
 
 .nitro-ui-alist>a>div {
@@ -81,6 +81,7 @@ a {
     width: 4%;
     margin: 5%;
     height: 4%;
+    padding: 0;
 }
 
 .yt-item {
