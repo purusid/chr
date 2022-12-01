@@ -68,6 +68,7 @@ a {
     margin-bottom: auto;
     border-radius: 1em;
     border: none;
+    padding: 1em;
 }
 
 .nitro-ui-alist>a>div {
