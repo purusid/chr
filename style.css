@@ -56,6 +56,7 @@ a {
     width: 100%;
     background-color: #333;
     display: flex;
+    align-items: center;
     border-radius: 1em;
     margin-bottom: 1em;
 }
@@ -68,7 +69,7 @@ a {
     margin-bottom: auto;
     border-radius: 1em;
     border: none;
-    padding: .5em;
+    padding: 1vmin;
 }
 
 .nitro-ui-alist>a>div {
@@ -85,26 +86,26 @@ a {
 }
 
 .yt-item {
-    border: .3em solid #f00;
-    box-shadow: .3em .3em .3em #f00;
+    border: .5vmin solid #f00;
+    box-shadow: .5vmin .5vmin .5vmin #f00;
 }
 
 .ig-item {
-    border: .3em solid #83b;
-    box-shadow: .3em .3em .3em #83b;
+    border: .5vmin solid #83b;
+    box-shadow: .5vmin .5vmin .5vmin #83b;
 }
 
 .tw-item {
-    border: .3em solid #0ae;
-    box-shadow: .3em .3em .3em #0ae;
+    border: .5vmin solid #0ae;
+    box-shadow: .5vmin .5vmin .5vmin #0ae;
 }
 
 .fb-item {
-    border: .3em solid #459;
-    box-shadow: .3em .3em .3em #459;
+    border: .5vmin solid #459;
+    box-shadow: .5vmin .5vmin .5vmin #459;
 }
 
 .dc-item {
-    border: .3em solid #56f;
-    box-shadow: .3em .3em .3em #56f;
+    border: .5vmin solid #56f;
+    box-shadow: .5vmin .5vmin .5vmin #56f;
 }
